@@ -1,4 +1,4 @@
-'use strict';
+// 'use strict;
  
 // Validação de Email
 const validarEmail = (email) => {
